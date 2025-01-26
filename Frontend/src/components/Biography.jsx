@@ -9,28 +9,28 @@ const Biography = ({imageUrl}) => {
         </div>
         <div className="banner">
           <p>Biography</p>
-          <h3>Who We Are</h3>
+          <h3>Information About Medical Institute</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+            Zee Care Medical Institute is established in 1956 , is one of the 
+            most prestigious medical institutions in india. located in new delhi
+            Zee care medical Institute is recognised for its excellence in medical
+            education, patient care, and advanced research. It offers undergraduate 
+            postgraduation and doctoral programs in various medical fields, 
+            attracting students from all over the world.
+            Be Safe and Be Healthy!
           </p>
-          <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
+          <p>We are all in 2025!</p>
+          <p>We are aiming the all people are live disease free.</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
+            Zee care medical Institute of medical science provides comprehensive
+            and affordable healthcare services, including specialized treatment
+            and surgeries. It houses state of the art facilities a highly skilled
+            team of medical professionals and is at the forefront of medical research facilities
+            and innovation. zee care also serves as referral center for complications
+            and rare medical cases.
           </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          <p>Care Rooted in Science, Driven by Humanity</p>
+          <p>Your health , Our mission</p>
         </div>
       </div>
     </>
