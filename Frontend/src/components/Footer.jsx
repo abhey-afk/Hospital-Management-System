@@ -34,7 +34,7 @@ const Footer = () => {
       id: 6,
       day: "Saturday",
       time: "9:00 AM - 3:00 PM",
-    },
+    }
   ];
 
   return (
@@ -68,7 +68,7 @@ const Footer = () => {
             <h4>Contact</h4>
             <div>
               <FaPhone />
-              <span>999-999-9999</span>
+              <span>+91 998372212</span>
             </div>
             <div>
               <MdEmail />
@@ -76,7 +76,7 @@ const Footer = () => {
             </div>
             <div>
               <FaLocationArrow />
-              <span>Karachi, Pakistan</span>
+              <span>New Delhi , India</span>
             </div>
           </div>
         </div>
