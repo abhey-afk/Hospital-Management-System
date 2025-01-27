@@ -82,10 +82,10 @@ A robust MERN-based system for hospitals featuring authentication & authorizatio
 ---
 
 ## Screenshots
-Add screenshots of your application here.
 Use an image hosting service like [Imgur](https://imgur.com/upload) or [Cloudinary](https://cloudinary.com/) to upload images and embed them using Markdown:
 ```md
-![Screenshot Description](image_url)
+![image](https://github.com/user-attachments/assets/270286ae-e5be-41e0-bd19-f139997da5df)
+
 ```
 
 ---
