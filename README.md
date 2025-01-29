@@ -1,4 +1,4 @@
-# Hospital Management System 🏥🚀
+#MediFlow: Optimizing Patient Care and Operations 🏥🚀
 
 ## Overview
 A robust MERN-based system for hospitals featuring authentication & authorization, multiple JSON Web Tokens (JWTs), dual frontends (user and admin), and a scalable architecture. This system is designed to simplify hospital operations, providing seamless management for both users and administrators.
